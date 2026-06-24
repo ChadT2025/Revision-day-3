@@ -1,0 +1,48 @@
+ body {
+      font-family: Arial;
+      max-width: 500px;
+      margin: 50px auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+
+    input {
+      padding: 10px;
+      width: 200px;
+      margin-right: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+
+    button {
+      padding: 10px 20px;
+      background: #667eea;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover { background: #764ba2; }
+
+    #itemList {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 5px;
+      min-height: 100px;
+    }
+
+    .item {
+      padding: 8px;
+      border-bottom: 1px solid #eee;
+    }
+
+    #stats {
+      background: white;
+      padding: 20px;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+    
+.stat { margin: 10px 0; }
